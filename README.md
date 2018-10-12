@@ -1,5 +1,7 @@
 # nuxeo-override-picture-schema
 
+This bundle allows you to override the `Picture` schema i.e. in order to add fields.
+
 ## Build
 
 ```
